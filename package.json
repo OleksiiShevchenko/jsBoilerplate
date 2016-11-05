@@ -1,0 +1,18 @@
+{
+  "name": "jsBoilerplate",
+  "version": "1.0.0",
+  "description": "initial template",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/OleksiiShevchenko/jsBoilerplate.git",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Oleksii Shevchenko",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^0.11.4"
+  }
+}
