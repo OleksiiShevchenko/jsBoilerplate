@@ -1,5 +1,4 @@
 
-
 import Dog from '../shared/dog';
 
 const str = 'ES6';
